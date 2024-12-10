@@ -1,18 +1,24 @@
 ---
-title: "Naruki Notsu"
-subtitle: "大阪大学大学院国際公共政策研究科 博士後期課程(D2)"
-title-block-banner: true
+title: "[Naruki Notsu]{.font-white}"
+subtitle: "[大阪大学大学院国際公共政策研究科 博士後期課程(D2)]{.font-white}"
+title-block-banner: image/image_light.jpg
 editor: visual
 ---
 
-## 野津成希 (Naruki Notsu)
+## 野津成希
 
 Email: [notsu.naru\[at\]gmail.com](mailto:notsu.naru@gmail.com)
 
 ### 学歴
 
--   2017年 - 2021年 武蔵大学経済学部
+-   武蔵大学経済学部
 
--   2021年 - 2023年 大阪大学大学院国際公共政策研究科 博士前期課程
+    -   2017年 - 2021年
 
--   2023年 - 大阪大学大学院国際公共政策研究科 博士後期課程
+-   大阪大学大学院国際公共政策研究科 博士前期課程
+
+    -   2021年 - 2023年
+
+-   大阪大学大学院国際公共政策研究科 博士後期課程
+
+    -   2023年 -
