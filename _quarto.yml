@@ -17,9 +17,11 @@ website:
         text: Send an email
         icon: envelope-plus
   page-footer:
+    background: light
     center: |
       &#169; 2024 Naruki Notsu
 
 format:
   html:
     theme: [cosmo,styles.scss]
+    link-external-newwindow: true
