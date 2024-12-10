@@ -1,16 +1,25 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "today"
-  navbar:
+  title: "Naruki Notsu"
+  site-url: https://NarukiNotsu.github.io
+  repo-url: https://github.com/NarukiNotsu/NarukiNotsu.github.io
+  navbar: 
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    tools: 
+      - href: mailto:notsu.naru@gmail.com
+        text: Send an email
+        icon: envelope-plus
+  page-footer:
+    center: |
+      &#169; 2024 Naruki Notsu
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: [cosmo,styles.scss]
