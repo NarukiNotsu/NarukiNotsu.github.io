@@ -1,13 +1,13 @@
 /*-- scss.defaults --*/
 
 @import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@300;400;500;700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
 
 // Fonts
 
 $font-family-jp: "Zen Kaku Gothic New" !default;
-$font-family-base: "Roboto", $font-family-jp !default;
+$font-family-base: "Commissioner", $font-family-jp !default;
 
 $font-family-sans-serif: $font-family-base, $font-family-jp !default;
 $font-family-monospace: "Fira Code", $font-family-jp !default;
@@ -17,6 +17,14 @@ $headings-font-weight: 600 !default;
 
 /*-- scss:rules --*/
 
+// Header
+
 p.subtitle.lead {
   font-weight: 400;
+}
+
+// Font color
+
+.font-white {
+  color: white;
 }
