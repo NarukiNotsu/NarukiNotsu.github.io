@@ -1,0 +1,35 @@
+---
+title: "研究活動"
+title-block-banner: true
+editor: visual
+---
+
+## 学術論文
+
+1.  Naruki Notsu (2024) "[Inter-municipal cooperation cloud and tax administrative costs](https://www.sciencedirect.com/science/article/pii/S0166046224000152)," [*Regional Science and Urban Economics*](https://www.journals.elsevier.com/regional-science-and-urban-economics), Vol.105
+
+2.  野津成希・広田啓朗 (2021) 「[自治体クラウドと市町村歳出－自治体クラウドと単独クラウドに着目した実証分析－](https://www.jstage.jst.go.jp/article/srs/51/2/51_235/_article/-char/ja/)」『[地域学研究](https://www.jstage.jst.go.jp/browse/srs/-char/ja)』, Vol.51, No.2, pp.235-253.
+
+## Work in Progress & Working Papers
+
+1.  Naruki Notsu, Haruaki Hirota, Nobuo Akai (2024) "Inter-municipal cooperation and tax enforcement capability" 
+
+## 学会・セミナー報告など
+
+1.  2024年7月30日 野津成希「Inter-municipal cooperation and tax enforcement capability」(2024年度7月例会 神戸大学政治学研究会)
+
+2.  2024年5月26日 野津成希「Inter-municipal cooperation and tax enforcement capability」(2024年度 第32回大会 日本地方財政学会) 
+
+3.  2024年3月27日 野津成希「Inter-municipal cooperation and tax enforcement capability 」（2024年度 実証財政・公共経済研究会）
+
+4.  2023年10月27日 Naruki Notsu「Inter-Municipal Cooperation cloud and tax administrative costs」(2023 Korean Association of Public Finance, Korea) 
+
+5.  2023年6月4日 野津成希「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 第31回大会 日本地方財政学会) 
+
+6.  2023年5月27日 野津成希「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 日本経済学会春季大会 ポスター報告) 
+
+7.  2023年3月25日 野津成希「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(第7回 日本財政学会オンライン研究会) 
+
+8.  2023年1月21日 野津成希「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2022 年度 第1回 関西公共経済学研究会) 
+
+9.  2022 年 3 月 19 日 野津成希・広田啓朗「自治体クラウドと市町村歳出」(2021 年度第 5 回関 西公共経済学研究会，Online)
