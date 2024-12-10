@@ -19,6 +19,13 @@ $headings-font-weight: 600 !default;
 
 // Header
 
+@media (min-width: 992px) {
+  .quarto-title-banner {
+    padding-top: 5em;
+    padding-bottom: 5em;
+  }
+}
+
 p.subtitle.lead {
   font-weight: 400;
 }
