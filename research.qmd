@@ -6,38 +6,45 @@ editor: visual
 
 ## 学術論文
 
-1.  Naruki Notsu (2024) "[Inter-municipal cooperation cloud and tax administrative costs](https://www.sciencedirect.com/science/article/pii/S0166046224000152)," [*Regional Science and Urban Economics*](https://www.journals.elsevier.com/regional-science-and-urban-economics), Vol.105
+1.  Notsu Naruki, Yosuke Abe, Shuko Harada (2025) The indirect effects of nuclear power plant accidents on population dynamics, Applied Economics Letters, forthcoming
 
-2.  野津成希・広田啓朗 (2021) 「[自治体クラウドと市町村歳出－自治体クラウドと単独クラウドに着目した実証分析－](https://www.jstage.jst.go.jp/article/srs/51/2/51_235/_article/-char/ja/)」『[地域学研究](https://www.jstage.jst.go.jp/browse/srs/-char/ja)』, Vol.51, No.2, pp.235-253.
+2.  Naruki Notsu (2024) "[Inter-municipal cooperation cloud and tax administrative costs](https://www.sciencedirect.com/science/article/pii/S0166046224000152)," [*Regional Science and Urban Economics*](https://www.journals.elsevier.com/regional-science-and-urban-economics), Vol.105
+
+3.  野津成希・広田啓朗 (2021) 「[自治体クラウドと市町村歳出－自治体クラウドと単独クラウドに着目した実証分析－](https://www.jstage.jst.go.jp/article/srs/51/2/51_235/_article/-char/ja/)」『[地域学研究](https://www.jstage.jst.go.jp/browse/srs/-char/ja)』, Vol.51, No.2, pp.235-253.
 
 ## Work in Progress & Working Papers
 
-1.  Naruki Notsu, Haruaki Hirota, Nobuo Akai (2024) "Inter-municipal cooperation and tax enforcement capability" 
+1.  Naruki Notsu, Haruaki Hirota, Nobuo Akai (2024) "Inter-municipal cooperation and tax enforcement capability"
+2.  Naruki Notsu, Shuko Harada, Shoya Abe (2025) "The consequences of partial fiscal decentralization: Decentralized police forces and local crime"
 
 ## 学会・セミナー報告など
 
-1.  2024 年 12 月 11 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(『公共事業に関わるマネジメントの課題と展望』研究会, 桃山学院大学)
+1.  2025年3月26日Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(2025年度 実証財政・公共経済研究会)
 
-2.  2024 年 12 月 7 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(1st Sino-Japanese SPACE Workshop Program, Osaka university)
+2.  2025年3月19日Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(東京大学財政ワークショップ)
 
-3.  2024 年 11 月 15 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(National tax association 117th Annual Conference, Detroit Marriott at the Renaissance Center, Detroit, Michigan, U.S.A)
+3.  2024 年 12 月 11 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(『公共事業に関わるマネジメントの課題と展望』研究会, 桃山学院大学)
 
-4.  2024 年 10 月 4 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(第 89 回「人材配置の経済学」研究会, Online)
+4.  2024 年 12 月 7 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(1st Sino-Japanese SPACE Workshop Program, Osaka university)
 
-5.  2024年7月30日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(2024年度7月例会 神戸大学政治学研究会, 神戸大学)
+5.  2024 年 11 月 15 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(National tax association 117th Annual Conference, Detroit Marriott at the Renaissance Center, Detroit, Michigan, U.S.A)
 
-6.  2024年5月26日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(2024年度 第32回大会 日本地方財政学会, 慶應義塾大学) 
+6.  2024 年 10 月 4 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(第 89 回「人材配置の経済学」研究会, Online)
 
-7.  2024年3月27日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability 」（2024年度 実証財政・公共経済研究会, 和歌山大学）
+7.  2024年7月30日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(2024年度7月例会 神戸大学政治学研究会, 神戸大学)
 
-8.  2023年10月27日 Naruki Notsu「Inter-Municipal Cooperation cloud and tax administrative costs」(2023 Korean Association of Public Finance, Korea) 
+8.  2024年5月26日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(2024年度 第32回大会 日本地方財政学会, 慶應義塾大学) 
 
-9.  2023年6月4日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 第31回大会 日本地方財政学会, 名古屋市立大学) 
+9.  2024年3月27日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability 」（2024年度 実証財政・公共経済研究会, 和歌山大学）
 
-10. 2023年5月27日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 日本経済学会春季大会 ポスター報告, Online) 
+10. 2023年10月27日 Naruki Notsu「Inter-Municipal Cooperation cloud and tax administrative costs」(2023 Korean Association of Public Finance, Korea) 
 
-11. 2023年3月25日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(第7回 日本財政学会オンライン研究会, Online) 
+11. 2023年6月4日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 第31回大会 日本地方財政学会, 名古屋市立大学) 
 
-12. 2023年1月21日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2022 年度 第1回 関西公共経済学研究会, 関西学院大学) 
+12. 2023年5月27日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 日本経済学会春季大会 ポスター報告, Online) 
 
-13. 2022 年 3 月 19 日 野津成希・広田啓朗「自治体クラウドと市町村歳出」(2021 年度第 5 回関 西公共経済学研究会，Online)
+13. 2023年3月25日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(第7回 日本財政学会オンライン研究会, Online) 
+
+14. 2023年1月21日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2022 年度 第1回 関西公共経済学研究会, 関西学院大学) 
+
+15. 2022 年 3 月 19 日 野津成希・広田啓朗「自治体クラウドと市町村歳出」(2021 年度第 5 回関 西公共経済学研究会，Online)
