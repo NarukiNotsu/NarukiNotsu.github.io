@@ -6,6 +6,7 @@ website:
   title: "Naruki Notsu"
   site-url: https://NarukiNotsu.github.io
   repo-url: https://github.com/NarukiNotsu/NarukiNotsu.github.io
+  google-analytics: "G-YZSCCRTEQX"
   navbar: 
     left:
       - href: research.qmd
