@@ -14,18 +14,15 @@ editor: visual
 
 ## Work in Progress & Working Papers
 
-<<<<<<< HEAD
 1.  Naruki Notsu, Haruaki Hirota, Nobuo Akai (2024) "Inter-municipal cooperation and tax enforcement capability"
-=======
-1.  Naruki Notsu, Haruaki Hirota, Nobuo Akai (2024) "Inter-municipal cooperation and tax enforcement capability" 
->>>>>>> ddcdc8fd90fd7a03c3b9835105881f939da3b8f6
+
 2.  Naruki Notsu, Shuko Harada, Shoya Abe (2025) "The consequences of partial fiscal decentralization: Decentralized police forces and local crime"
 
 ## 学会・セミナー報告など
 
-1.  2025年3月26日Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(2025年度 実証財政・公共経済研究会)
+1.  2025年3月26日Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(2025年度 実証財政・公共経済研究会, 松山大学)
 
-2.  2025年3月19日Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(東京大学財政ワークショップ)
+2.  2025年3月19日Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(東京大学財政ワークショップ, 東京大学)
 
 3.  2024 年 12 月 11 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(『公共事業に関わるマネジメントの課題と展望』研究会, 桃山学院大学)
 
