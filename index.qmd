@@ -1,6 +1,6 @@
 ---
 title: "[Naruki Notsu]{.font-white}"
-subtitle: "[大阪大学大学院国際公共政策研究科 博士後期課程(D2)]{.font-white}"
+subtitle: "[大阪大学大学院国際公共政策研究科 博士後期課程(D3)]{.font-white}"
 title-block-banner: image/image_light.jpg
 editor: visual
 ---
