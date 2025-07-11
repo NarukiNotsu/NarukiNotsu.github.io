@@ -16,7 +16,9 @@ editor: visual
 
 1.  Naruki Notsu, Haruaki Hirota, Nobuo Akai (2024) "Inter-municipal cooperation and tax enforcement capability"
 
-2.  Naruki Notsu, Shuko Harada, Shoya Abe (2025) "The consequences of partial fiscal decentralization: Decentralized police forces and local crime"
+2.  Naruki Notsu, Shuko Harada, Shoya Abe (2025) "The consequences of fiscal decentralization: Decentralized police forces and local crime"
+
+3. Naruki Notsu, Asahi Semma, Shuko Harada (2025) "Accountability Lost: Uncontested Elections and Mayoral Rent-Seeking"
 
 ## 学会・セミナー報告など
 
@@ -38,7 +40,7 @@ editor: visual
 
 9.  2024年3月27日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability 」（2024年度 実証財政・公共経済研究会, 和歌山大学）
 
-10. 2023年10月27日 Naruki Notsu「Inter-Municipal Cooperation cloud and tax administrative costs」(2023 Korean Association of Public Finance, Korea) 
+10. 2023年10月27日 Naruki Notsu「Inter-Municipal Cooperation cloud and tax administrative costs」(2023 Korean Association of Public Finance, Korea)
 
 11. 2023年6月4日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 第31回大会 日本地方財政学会, 名古屋市立大学) 
 
