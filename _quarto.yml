@@ -13,6 +13,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: award.qmd
+        text: Award
     tools: 
       - href: mailto:notsu.naru@gmail.com
         text: Send an email

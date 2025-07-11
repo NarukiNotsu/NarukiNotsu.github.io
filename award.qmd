@@ -1,0 +1,11 @@
+---
+title: "受賞"
+title-block-banner: true
+editor: visual
+---
+
+## 受賞歴
+
+1.  2025 年 6 月 佐藤賞＜論文の部＞
+
+2.  2023 年 3 月 OSIPP 優秀学位論文賞
