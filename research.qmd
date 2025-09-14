@@ -4,7 +4,7 @@ title-block-banner: true
 editor: visual
 ---
 
-## 学術論文
+## Published Paper
 
 1. Naruki Notsu, Haruaki Hirota, Nobuo Akai (2025) "[Inter-municipal cooperation and tax enforcement capability](https://doi.org/10.1016/j.regsciurbeco.2025.104137) [*Regional Science and Urban Economics*](https://www.journals.elsevier.com/regional-science-and-urban-economics), Vol.114 104137-104137
 
