@@ -70,11 +70,14 @@ editor: visual
 
 ## 討論者など
 
-1.  2025 年 12 月 7 日 Yang Zuo, Kenichi Kurita「Centralization of Tax System and Market Segmentation Causal Inference Based on the
-NTB-LTB Merger Reform, (公共選択学会, 北九州市立大学)
+1.  2025 年 12 月 7 日 Yang Zuo, Kenichi Kurita「Centralization of Tax System and Market Segmentation Causal Inference Based on the NTB-LTB Merger Reform, (公共選択学会, 北九州市立大学)
 
 ## 受諾研究費
 
 1.  2025 年 4 月 特別研究員奨励費
 
 2.  2023 年 4 月 JST 次世代研究者挑戦的研究プログラム JPMJSP2138
+
+## Journal Reviewer:
+
+Regional Science and Urban Economics(2)
