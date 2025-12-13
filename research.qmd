@@ -24,6 +24,9 @@ editor: visual
 
 4.  Naruki Notsu, Yu Osaki, Shuko Harada (2025) "Evaluating the design of ICT implementation: financial impacts of standardized system specifications"
 
+5. Rio Ikeuchi, Shuko Harada, Naruki Notsu, Yuki Shiraishi (2025) "The Rise of Women? Gender and Employment amid
+Public Sector Destruction and Consolidation"
+
 ## 学会・セミナー報告など
 
 1.  2025 年 12 月 7 日 Naruki Notsu,  Shuko Harada, Shoya Abe「Complete Loss of Competition: Uncontested Elections and Political Rents, (公共選択学会 ポスター報告, 北九州市立大学)
@@ -78,6 +81,6 @@ editor: visual
 
 2.  2023 年 4 月 JST 次世代研究者挑戦的研究プログラム JPMJSP2138
 
-## Journal Reviewer:
+## Journal Reviewer
 
 Regional Science and Urban Economics(2)
