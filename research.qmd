@@ -16,17 +16,17 @@ editor: visual
 
 ## Work in Progress & Working Papers
 
-1.  Naruki Notsu, Shuko Harada, Shoya Abe (2025) "The consequences of fiscal decentralization: Decentralized police forces and local crime"
+1.  Naruki Notsu, Shuko Harada, Shoya Abe (2026) "The consequences of fiscal decentralization: Decentralized police forces and local crime"
 
-2.  Naruki Notsu, Asahi Semma, Shuko Harada (2025) "Complete Loss of Competition: Uncontested Elections and Political Rents"
+2.  Naruki Notsu, Asahi Semma, Shuko Harada (2026) "Complete Loss of Competition: Uncontested Elections and Political Rents"
 
-3.  Naruki Notsu, Shuko Harada, Shoya Abe (2025) "Countering Incumbency Advantage: Challenger Strategy and Political Rents"
+3.  Naruki Notsu, Shuko Harada, Shoya Abe (2026) "Countering Incumbency Advantage: Challenger Strategy and Political Rents"
 
-4.  Naruki Notsu, Yu Osaki, Shuko Harada (2025) "Evaluating the design of ICT implementation: financial impacts of standardized system specifications"
+4.  Naruki Notsu, Yu Osaki, Shuko Harada (2026) "Evaluating the design of ICT implementation: financial impacts of standardized system specifications"
 
-5.  Rio Ikeuchi, Shuko Harada, Naruki Notsu, Yuki Shiraishi (2025) "The Rise of Women? Gender and Employment amid Public Sector Destruction and Consolidation"
+5.  Rio Ikeuchi, Shuko Harada, Naruki Notsu, Yuki Shiraishi (2026) "The Rise of Women? Gender and Employment amid Public Sector Destruction and Consolidation"
 
-6.  Naruki Notsu, Shuko Harada, Shoya Abe (2025) "From Bureaucrats to Municipal Officials: Revolving Door and Tax Enforcement Capabilities"
+6.  Naruki Notsu, Shuko Harada, Shoya Abe (2026) "From Bureaucrats to Municipal Officials: Revolving Door and Tax Enforcement Capabilities"
 
 ## 学会・セミナー報告など
 
@@ -84,4 +84,4 @@ editor: visual
 
 ## Journal Reviewer
 
-Regional Science and Urban Economics(2)
+Regional Science and Urban Economics(3)
