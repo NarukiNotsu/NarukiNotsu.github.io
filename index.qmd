@@ -1,6 +1,6 @@
 ---
 title: "[Naruki Notsu]{.font-white}"
-subtitle: "[大阪大学大学院国際公共政策研究科 博士後期課程(D3)]{.font-white}"
+subtitle: "[大阪大学大学院国際公共政策研究科]{.font-white}"
 title-block-banner: image/image_light.jpg
 editor: visual
 ---
@@ -23,15 +23,19 @@ Email: [notsu.naru\[at\]gmail.com](mailto:notsu.naru@gmail.com)
 
 ### 学歴
 
+-   大阪大学大学院国際公共政策研究科 博士後期課程
+
+    -   2023年 - 2026年
+    
+    
+-   大阪大学大学院国際公共政策研究科 博士前期課程
+
+    -   2021年 - 2023年
+    
+    
 -   武蔵大学経済学部
 
     -   2017年 - 2021年
 
--   大阪大学大学院国際公共政策研究科 博士前期課程
 
-    -   2021年 - 2023年
-
--   大阪大学大学院国際公共政策研究科 博士後期課程
-
-    -   2023年 - 2026年
 

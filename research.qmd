@@ -4,7 +4,7 @@ title-block-banner: true
 editor: visual
 ---
 
-## Published Paper
+## Published Papers
 
 1.  Naruki Notsu, Haruaki Hirota, Nobuo Akai (2025) "[Inter-municipal cooperation and tax enforcement capability](https://doi.org/10.1016/j.regsciurbeco.2025.104137) [*Regional Science and Urban Economics*](https://www.journals.elsevier.com/regional-science-and-urban-economics), Vol.114 104137-104137
 
@@ -20,67 +20,75 @@ editor: visual
 
 2.  Naruki Notsu, Asahi Semma, Shuko Harada (2026) "Complete Loss of Competition: Uncontested Elections and Political Rents"
 
-3.  Naruki Notsu, Shuko Harada, Shoya Abe (2026) "Countering Incumbency Advantage: Challenger Strategy and Political Rents"
+3.  Naruki Notsu, Shuko Harada, Shoya Abe (2026) "Symbolic Pay Cuts and Electoral Differentiation"
 
 4.  Naruki Notsu, Yu Osaki, Shuko Harada (2026) "Evaluating the design of ICT implementation: financial impacts of standardized system specifications"
 
-5.  Rio Ikeuchi, Shuko Harada, Naruki Notsu, Yuki Shiraishi (2026) "The Rise of Women? Gender and Employment amid Public Sector Destruction and Consolidation"
+5.  Naruki Notsu, Shuko Harada, Shoya Abe (2026) "From Bureaucrats to Municipal Officials: Revolving Door and Tax Enforcement Capabilities"
 
-6.  Naruki Notsu, Shuko Harada, Shoya Abe (2026) "From Bureaucrats to Municipal Officials: Revolving Door and Tax Enforcement Capabilities"
+6.  Shuhei Kitamura, Naruki Notsu, Pramod Kumar Sur (2026) "Ballot Entry Costs, Political Selection, and State Capacity: Evidence from India’s 1996 Deposit Reform"
+
+7.  Takumi Gotoh, Shuko Harada, Naruki Notsu (2026) "Pharmacist Incentives versus Consumer Copayments: Policy Instruments for Generic Drug Adoption"
+
+8.  Shuko Harada, Rio Ikeuchi, Naruki Notsu (2026) "Drawing the Boundary: Institutional Protection and Political Conflict within and across Groups"
 
 ## 学会・セミナー報告など
 
-1.  2025 年 12 月 7 日 Naruki Notsu, Shuko Harada, Shoya Abe「Complete Loss of Competition: Uncontested Elections and Political Rents, (公共選択学会 ポスター報告, 北九州市立大学)
+1.  2026 年 5 月 22 日 Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of fiscal decentralization: Decentralized police forces and local crime」 (TG経済学研究会, 東北学院大学)
 
-2.  2025 年 12 月 6 日 Naruki Notsu, Shuko Harada, Shoya Abe「Countering Incumbency Advantage: Challenger Strategy and Political Rents, (公共選択学会, 北九州市立大学)
+2.  2025 年 12 月 7 日 Naruki Notsu, Shuko Harada, Shoya Abe「Complete Loss of Competition: Uncontested Elections and Political Rents」 (公共選択学会 ポスター報告, 北九州市立大学)
 
-3.  2025 年 10 月 29 日 Naruki Notsu, Shuko Harada, Shoya Abe「Countering Incumbency Advantage: Challenger Strategy and Political Rents, (OSIPP Lunch Seminar, 大阪大学)
+3.  2025 年 12 月 6 日 Naruki Notsu, Shuko Harada, Shoya Abe「Countering Incumbency Advantage: Challenger Strategy and Political Rents」(公共選択学会, 北九州市立大学)
 
-4.  2025 年 9 月 25 日 Naruki Notsu, Shuko Harada, Shoya Abe 「Countering Incumbency Advantage: Challenger Strategy and Political Rents」(政経研究所 経済研究会, 日本大学)
+4.  2025 年 10 月 29 日 Naruki Notsu, Shuko Harada, Shoya Abe「Countering Incumbency Advantage: Challenger Strategy and Political Rents」(OSIPP Lunch Seminar, 大阪大学)
 
-5.  2025 年 8 月 8 日 Naruki Notsu, Asahi Semma, Shuko Harada「Complete Loss of Competition: Uncontested Elections and Political Rents」(Japan Political Economy Group，Online)
+5.  2025 年 9 月 25 日 Naruki Notsu, Shuko Harada, Shoya Abe 「Countering Incumbency Advantage: Challenger Strategy and Political Rents」(政経研究所 経済研究会, 日本大学)
 
-6.  2025 年 8 月 6 日 Naruki Notsu, Asahi Semma, Shuko Harada「Complete Loss of Competition: Uncontested Elections and Political Rents」(OSIPP Lunch Seminar, 大阪大学)
+6.  2025 年 8 月 8 日 Naruki Notsu, Asahi Semma, Shuko Harada「Complete Loss of Competition: Uncontested Elections and Political Rents」(Japan Political Economy Group，Online)
 
-7.  2025 年 3 月 26 日 Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(2025年度 実証財政・公共経済研究会, 松山大学)
+7.  2025 年 8 月 6 日 Naruki Notsu, Asahi Semma, Shuko Harada「Complete Loss of Competition: Uncontested Elections and Political Rents」(OSIPP Lunch Seminar, 大阪大学)
 
-8.  2025 年 3 月 19 日 Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(東京大学財政ワークショップ, 東京大学)
+8.  2025 年 3 月 26 日 Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(2025年度 実証財政・公共経済研究会, 松山大学)
 
-9.  2024 年 12 月 11 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(『公共事業に関わるマネジメントの課題と展望』研究会, 桃山学院大学)
+9.  2025 年 3 月 19 日 Naruki Notsu, Shuko Harada, Shoya Abe「The consequences of partial fiscal decentralization: Decentralized police forces and local crime」(東京大学財政ワークショップ, 東京大学)
 
-10. 2024 年 12 月 7 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(1st Sino-Japanese SPACE Workshop Program, Osaka university)
+10. 2024 年 12 月 11 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(『公共事業に関わるマネジメントの課題と展望』研究会, 桃山学院大学)
 
-11. 2024 年 11 月 15 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(National tax association 117th Annual Conference, Detroit Marriott at the Renaissance Center, Detroit, Michigan, U.S.A)
+11. 2024 年 12 月 7 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(1st Sino-Japanese SPACE Workshop Program, Osaka university)
 
-12. 2024 年 10 月 4 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(第 89 回「人材配置の経済学」研究会, Online)
+12. 2024 年 11 月 15 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(National tax association 117th Annual Conference, Detroit Marriott at the Renaissance Center, Detroit, Michigan, U.S.A)
 
-13. 2024年7月30日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(2024年度7月例会 神戸大学政治学研究会, 神戸大学)
+13. 2024 年 10 月 4 日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(第 89 回「人材配置の経済学」研究会, Online)
 
-14. 2024年5月26日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(2024年度 第32回大会 日本地方財政学会, 慶應義塾大学)
+14. 2024年7月30日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(2024年度7月例会 神戸大学政治学研究会, 神戸大学)
 
-15. 2024年3月27日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability 」（2024年度 実証財政・公共経済研究会, 和歌山大学）
+15. 2024年5月26日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability」(2024年度 第32回大会 日本地方財政学会, 慶應義塾大学)
 
-16. 2023年10月27日 Naruki Notsu「Inter-Municipal Cooperation cloud and tax administrative costs」(2023 Korean Association of Public Finance, Korea)
+16. 2024年3月27日 Naruki Notsu, Haruaki Hirota, Nobuo Akai「Inter-municipal cooperation and tax enforcement capability 」（2024年度 実証財政・公共経済研究会, 和歌山大学）
 
-17. 2023年6月4日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 第31回大会 日本地方財政学会, 名古屋市立大学)
+17. 2023年10月27日 Naruki Notsu「Inter-Municipal Cooperation cloud and tax administrative costs」(2023 Korean Association of Public Finance, Korea)
 
-18. 2023年5月27日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 日本経済学会春季大会 ポスター報告, Online)
+18. 2023年6月4日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 第31回大会 日本地方財政学会, 名古屋市立大学)
 
-19. 2023年3月25日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(第7回 日本財政学会オンライン研究会, Online)
+19. 2023年5月27日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2023年度 日本経済学会春季大会 ポスター報告, Online)
 
-20. 2023年1月21日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2022 年度 第1回 関西公共経済学研究会, 関西学院大学)
+20. 2023年3月25日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(第7回 日本財政学会オンライン研究会, Online)
 
-21. 2022 年 3 月 19 日 野津成希・広田啓朗「自治体クラウドと市町村歳出」(2021 年度第 5 回 関西公共経済学研究会)
+21. 2023年1月21日 Naruki Notsu「Do inter-municipal cooperation cloud systems affect tax administrative costs? Evidence from Japanese municipalities」(2022 年度 第1回 関西公共経済学研究会, 関西学院大学)
+
+22. 2022 年 3 月 19 日 野津成希・広田啓朗「自治体クラウドと市町村歳出」(2021 年度第 5 回 関西公共経済学研究会)
 
 ## 討論者など
 
 1.  2025 年 12 月 7 日 Yang Zuo, Kenichi Kurita「Centralization of Tax System and Market Segmentation Causal Inference Based on the NTB-LTB Merger Reform, (公共選択学会, 北九州市立大学)
 
-## 受諾研究費
+## **研究費・助成金**
 
-1.  2025 年 4 月 特別研究員奨励費
+1.  2026年4月　地方公共団体金融機構 若手研究者のための地方財政研究助成事業
 
-2.  2023 年 4 月 JST 次世代研究者挑戦的研究プログラム JPMJSP2138
+2.  2025 年 4 月 特別研究員奨励費
+
+3.  2023 年 4 月 JST 次世代研究者挑戦的研究プログラム JPMJSP2138
 
 ## Journal Reviewer
 
