@@ -92,4 +92,4 @@ editor: visual
 
 ## Journal Reviewer
 
-Regional Science and Urban Economics(3)
+Regional Science and Urban Economics(3), Asia & the Pacific Policy Studies
